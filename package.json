@@ -1,0 +1,29 @@
+{
+	"name": "resolution-independence",
+	"version": "0.0.1",
+	"description": "resolution independence conversion plugin for less.js",
+	"homepage": "http://www.enyojs.com",
+	"contributors": [
+		{
+			"name": "Blake Stephens"
+		},
+		{
+			"name": "Aaron Tam"
+		},
+		{
+			"name": "Derek Anderson"
+		}
+	],
+	"main": "lib/index.js",
+	"engines": {
+		"node": ">=0.4.2"
+	},
+	"devDependencies": {
+		"less": "^2.0"
+	},
+	"keywords": [
+		"less plugins",
+		"resolution independence"
+	],
+	"directories": {}
+}
