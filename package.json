@@ -2,7 +2,11 @@
 	"name": "resolution-independence",
 	"version": "0.0.1",
 	"description": "resolution independence conversion plugin for less.js",
+	"author": "Aaron Tam <aaron.tam@lge.com>",
 	"homepage": "http://www.enyojs.com",
+	"bugs": {
+		"url": "https://github.com/enyojs/less-plugin-resolution-independence/issues"
+	},
 	"contributors": [
 		{
 			"name": "Blake Stephens"
@@ -23,7 +27,8 @@
 	},
 	"keywords": [
 		"less plugins",
-		"resolution independence"
+		"resolution independence",
+		"rem"
 	],
-	"directories": {}
+	"license": "Apache-2.0"
 }
