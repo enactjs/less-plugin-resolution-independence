@@ -1,34 +1,34 @@
 {
-	"name": "resolution-independence",
-	"version": "0.0.1",
-	"description": "resolution independence conversion plugin for less.js",
-	"author": "Aaron Tam <aaron.tam@lge.com>",
-	"homepage": "http://www.enyojs.com",
-	"bugs": {
-		"url": "https://github.com/enyojs/less-plugin-resolution-independence/issues"
-	},
-	"contributors": [
-		{
-			"name": "Blake Stephens"
-		},
-		{
-			"name": "Aaron Tam"
-		},
-		{
-			"name": "Derek Anderson"
-		}
-	],
-	"main": "lib/index.js",
-	"engines": {
-		"node": ">=0.4.2"
-	},
-	"devDependencies": {
-		"less": "^2.0"
-	},
-	"keywords": [
-		"less plugins",
-		"resolution independence",
-		"rem"
-	],
-	"license": "Apache-2.0"
+  "name": "resolution-independence",
+  "version": "0.0.2",
+  "description": "resolution independence conversion plugin for less.js",
+  "author": "Aaron Tam <aaron.tam@lge.com>",
+  "homepage": "http://www.enyojs.com",
+  "bugs": {
+    "url": "https://github.com/enyojs/less-plugin-resolution-independence/issues"
+  },
+  "contributors": [
+    {
+      "name": "Blake Stephens"
+    },
+    {
+      "name": "Aaron Tam"
+    },
+    {
+      "name": "Derek Anderson"
+    }
+  ],
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">=0.4.2"
+  },
+  "devDependencies": {
+    "less": "^2.0"
+  },
+  "keywords": [
+    "less plugins",
+    "resolution independence",
+    "rem"
+  ],
+  "license": "Apache-2.0"
 }
