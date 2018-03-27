@@ -1,12 +1,13 @@
 {
   "name": "resolution-independence",
-  "version": "0.0.3",
-  "description": "resolution independence conversion plugin for less.js",
+  "version": "0.0.4",
+  "description": "Resolution independence conversion plugin for Less.js",
   "author": "Aaron Tam <aaron.tam@lge.com>",
   "homepage": "http://www.enyojs.com",
   "bugs": {
     "url": "https://github.com/enyojs/less-plugin-resolution-independence/issues"
   },
+  "repository": "https://github.com/enactjs/less-plugin-resolution-independence",
   "contributors": [
     {
       "name": "Blake Stephens"
@@ -16,6 +17,9 @@
     },
     {
       "name": "Derek Anderson"
+    },
+    {
+      "name": "Jason Robitaille"
     }
   ],
   "main": "lib/index.js",
@@ -23,9 +27,9 @@
     "node": ">=0.4.2"
   },
   "devDependencies": {
-    "chai": "^3.2.0",
-    "less": "^2.0",
-    "mocha": "^2.2.5"
+    "chai": "^4.1.2",
+    "less": "^3.0",
+    "mocha": "^5.0.5"
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec"
