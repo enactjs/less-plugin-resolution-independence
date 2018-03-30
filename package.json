@@ -1,11 +1,11 @@
 {
   "name": "resolution-independence",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "Resolution independence conversion plugin for Less.js",
   "author": "Aaron Tam <aaron.tam@lge.com>",
-  "homepage": "http://www.enyojs.com",
+  "homepage": "http://www.enactjs.com",
   "bugs": {
-    "url": "https://github.com/enyojs/less-plugin-resolution-independence/issues"
+    "url": "https://github.com/enactjs/less-plugin-resolution-independence/issues"
   },
   "repository": "https://github.com/enactjs/less-plugin-resolution-independence",
   "contributors": [
